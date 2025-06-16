@@ -1,7 +1,7 @@
-commit 9d18b5dd30693b33811dd19bd3a4284885f7b971
+commit 0b210c6fd3f5226f2787e28ff17659d37a621fd9
 Author: Shen Tang <adatang23@yahoo.com>
-Date:   Mon Jun 16 18:58:05 2025 +0000
+Date:   Mon Jun 16 18:58:19 2025 +0000
 
     completed the Angular - Directives Lab
 
- 1 file changed, 3 insertions(+), 3 deletions(-)
+ 1 file changed, 2 insertions(+), 2 deletions(-)
